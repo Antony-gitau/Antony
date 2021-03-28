@@ -1,5 +1,5 @@
 #Arduino project one.
- i am practsing playing with leds and resistors.
+ i am practising playing with leds and resistors.
  this is like the most basic steps of getting started with arduino.
  
  I want to use a variable resistor (potentialmeter) to control the brightness of an array of leds.
